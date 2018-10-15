@@ -1,0 +1,18 @@
+{
+    "name": "kurt/braintree-payment",
+    "authors": [
+        {
+            "name": "Kurt Jing",
+            "email": "wzs129@hotmail.com"
+        }
+    ],
+    "require": {
+      "braintree/braintree_php": "3.23.0"
+    },
+    "repositories": [
+      {
+        "type": "vcs",
+        "url": "https://github.com/sea129/braintree_php"
+      }
+    ]
+}
