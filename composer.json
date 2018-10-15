@@ -7,7 +7,7 @@
         }
     ],
     "require": {
-      "braintree/braintree_php": "3.23.0"
+      "braintree/braintree_php": "dev-master#3.23.0"
     },
     "repositories": [
       {
