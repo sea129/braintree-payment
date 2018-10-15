@@ -11,11 +11,11 @@
     },
     "repositories": [
       {
-        "type": "vcs",
-        "url": "https://github.com/sea129/braintree_php"
+            "packagist.org": false
       },
       {
-            "packagist.org": false
+        "type": "vcs",
+        "url": "https://github.com/sea129/braintree_php"
       }
     ]
 }
